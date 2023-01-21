@@ -1,0 +1,40 @@
+# hub_cen_primates
+
+UCSC browser hub for centromere regions of few chromosomes 5, 10, 12, 20, 21, X of Chimpanzee, Orangutan, Macaque
+
+-  ag07107_mmu_cen10_h1v1:7000001-19800000
+-  ag07107_mmu_cen10_h2v1:34000001-44800000
+-  ag07107_mmu_cen12_h1v1:24000001-39300000
+-  ag07107_mmu_cen12_h2v1:24050001-38550000
+-  ag07107_mmu_cen20_h1v1:60900001-77600000
+-  ag07107_mmu_cen20_h2v1:800001-16100000
+-  ag07107_mmu_cen21_h1v1:7150001-7750000
+-  ag07107_mmu_cen21_h2v1:6500001-7100000
+-  ag07107_mmu_cen5_h1v1:46300001-59800000
+-  ag07107_mmu_cen5_h2v1:1400001-14700000
+-  ag07107_mmu_cenX_h1v1:1000001-15500000
+-  ag07107_mmu_cenX_h2v1:1000001-14400000
+-  clint_PTR_cen10_h1v1:39250001-42150000
+-  clint_PTR_cen10_h2v1:1725001-4425000
+-  clint_PTR_cen12_h1v1:68277001-71277000
+-  clint_PTR_cen12_h2v1:72950001-76650000
+-  clint_PTR_cen20_h1v1:15050001-19100000
+-  clint_PTR_cen20_h2v1:7050001-11150000
+-  clint_PTR_cen21_h1v1:600001-3600000
+-  clint_PTR_cen21_h2v1:1400001-3700000
+-  clint_PTR_cen5_h1v1:17950001-20950000
+-  clint_PTR_cen5_h2v1:32326001-35676000
+-  clint_PTR_cenX_v1:1175001-3525000
+-  susie_pab_cen10_h1v1:38200001-45600000
+-  susie_pab_cen10_h2v1:38200001-47400000
+-  susie_pab_cen12_h1v1:35100001-36200000
+-  susie_pab_cen12_h2v1:25100001-26200000
+-  susie_pab_cen20_h1v1:21500001-27900000
+-  susie_pab_cen20_h2v1:21500001-30100000
+-  susie_pab_cen21_h1v2:10800001-16400000
+-  susie_pab_cen21_h2v2:11200001-16300000
+-  susie_pab_cen5_h1v1:44900001-57700000
+-  susie_pab_cen5_h2v1:44900001-56500000
+-  susie_pab_cenX_h1v2:1100001-9900000
+-  susie_pab_cenX_h2v2:1100001-12000000
+
