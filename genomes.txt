@@ -2,5 +2,5 @@ genome cen_primates
 trackDb trackDb.txt
 twoBitPath cen_primates.2bit
 organism Chimpanzee, Orangutan, Macaque 
-defaultPos ag07107_mmu_cen12_h1v1:24000001-39300000:1-15299999
+defaultPos ag07107_mmu_cen12_h1v1:1-15299999
 
