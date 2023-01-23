@@ -23,3 +23,16 @@ visibility dense
 type bigBed 9
 itemRgb on
 maxItems 100000
+
+track owmSF
+type bigBed
+bigDataUrl owmSF.bb
+shortLabel OWM ASat SF 
+longLabel OWM ASat SF
+itemRgb on
+group Centromere
+priority 3
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
