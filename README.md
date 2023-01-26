@@ -1,6 +1,6 @@
 # hub_cen_primates
 
-UCSC browser hub for centromere regions of few chromosomes 5, 10, 12, 20, 21, X of Chimpanzee, Orangutan, Macaque
+UCSC browser hub for centromere regions of few chromosomes 5, 10, 12, 20, 21, X of Chimpanzee (Clint), Orangutan (Susie), Macaque (AG07107)
 
 -  ag07107_mmu_cen10_h1v1:7000001-19800000
 -  ag07107_mmu_cen10_h2v1:34000001-44800000

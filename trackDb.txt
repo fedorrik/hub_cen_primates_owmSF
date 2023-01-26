@@ -24,11 +24,11 @@ type bigBed 9
 itemRgb on
 maxItems 100000
 
-track owmSF
+track owmSF_ag07107
 type bigBed
-bigDataUrl owmSF.bb
-shortLabel OWM ASat SF 
-longLabel OWM ASat SF
+bigDataUrl owmSF_ag07107.bb
+shortLabel OWM ASat SF ag07107
+longLabel OWM ASat SF ag07107
 itemRgb on
 group Centromere
 priority 3
