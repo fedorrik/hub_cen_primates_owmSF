@@ -36,3 +36,17 @@ visibility dense
 type bigBed 9
 itemRgb on
 maxItems 100000
+
+track hor
+type bigBed
+bigDataUrl hor.bb
+shortLabel ASat HOR
+longLabel Human ASat HOR on chimp
+itemRgb on
+group Centromere
+priority 1
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
+
