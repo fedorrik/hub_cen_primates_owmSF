@@ -24,24 +24,11 @@ type bigBed 9
 itemRgb on
 maxItems 100000
 
-track owmSF_ag07107
+track owmSF
 type bigBed
-bigDataUrl owmSF_ag07107.bb
-shortLabel OWM ASat SF ag07107
+bigDataUrl owmSF.bb
+shortLabel OWM ASat SF
 longLabel OWM ASat SF ag07107
-itemRgb on
-group Centromere
-priority 3
-visibility dense
-type bigBed 9
-itemRgb on
-maxItems 100000
-
-track owmSF_ag07107_mask
-type bigBed
-bigDataUrl owmSF_ag07107_mask.bb
-shortLabel OWM ASat SF ag07107 mask
-longLabel OWM ASat SF ag07107 (human SF are masked)
 itemRgb on
 group Centromere
 priority 3
