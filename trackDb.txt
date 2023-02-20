@@ -50,3 +50,16 @@ type bigBed 9
 itemRgb on
 maxItems 100000
 
+track owmSF2
+type bigBed
+bigDataUrl owmSF2.bb
+shortLabel OWM ASat SF v2
+longLabel OWM ASat SF ag07107 v2
+itemRgb on
+group Centromere
+priority 5
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
+
