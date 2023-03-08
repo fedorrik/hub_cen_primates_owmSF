@@ -1,6 +1,6 @@
 track sf
 type bigBed
-bigDataUrl sf.bb
+bigDataUrl bb/sf.bb
 shortLabel ASat SF
 longLabel ASat SF
 itemRgb on
@@ -13,7 +13,7 @@ maxItems 100000
 
 track strand
 type bigBed
-bigDataUrl strand.bb
+bigDataUrl bb/strand.bb
 shortLabel ASat Strand
 longLabel ASat strand
 itemRgb on
@@ -26,7 +26,7 @@ maxItems 100000
 
 track owmSF
 type bigBed
-bigDataUrl owmSF.bb
+bigDataUrl bb/owmSF.bb
 shortLabel OWM ASat SF
 longLabel OWM ASat SF ag07107
 itemRgb on
@@ -39,12 +39,12 @@ maxItems 100000
 
 track hor
 type bigBed
-bigDataUrl hor.bb
+bigDataUrl bb/hor.bb
 shortLabel ASat HOR
 longLabel Human ASat HOR on chimp
 itemRgb on
 group Centromere
-priority 1
+priority 4
 visibility dense
 type bigBed 9
 itemRgb on
@@ -52,12 +52,25 @@ maxItems 100000
 
 track owmSF2
 type bigBed
-bigDataUrl owmSF2.bb
+bigDataUrl bb/owmSF2.bb
 shortLabel OWM ASat SF v2
 longLabel OWM ASat SF ag07107 v2
 itemRgb on
 group Centromere
 priority 5
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
+
+track owmSF3
+type bigBed
+bigDataUrl bb/owmSF3.bb
+shortLabel OWM ASat SF v3
+longLabel OWM ASat SF ag07107 v3
+itemRgb on
+group Centromere
+priority 6
 visibility dense
 type bigBed 9
 itemRgb on
