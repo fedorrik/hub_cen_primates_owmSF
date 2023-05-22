@@ -1,6 +1,6 @@
-hub cen_primates
-shortLabel cen_primates
-longLabel cen_primates
+hub cen_primates_owmSF
+shortLabel cen_primates_owmSF
+longLabel cen_primates_owmSF
 genomesFile genomes.txt
 email  fedorrik1@gmail.com
 
